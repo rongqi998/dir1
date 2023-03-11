@@ -1,0 +1,4 @@
+1 zs
+2 ls
+3 w5
+4 hello,world!

@@ -4,4 +4,4 @@
 4 hello,world!
 5 hello .git!
 6 hello  hot-fix:dev
-7 dev: 123456
+7 hot:12345

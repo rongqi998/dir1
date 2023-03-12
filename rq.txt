@@ -3,4 +3,5 @@
 3 w5
 4 hello,world!
 5 hello .git!
-6 hello  hot-fix 
+6 hello  hot-fix:dev
+7 dev: 123456
